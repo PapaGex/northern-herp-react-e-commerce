@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0,0,20,20" width="96" height="96">
-    <rect height="20" width="20" fill="hsl(87,25%,50%)"/>
-    <text fill="white" x="10" y="14.8" font-size="14" font-family="Trebuchet MS,Arial,sans-serif" text-anchor="middle">
-        D
-    </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 20 20"><rect width="20" height="20" fill="hsl(87,25%,50%)"/><text x="10" y="14.8" fill="#fff" font-family="Trebuchet MS,Arial,sans-serif" font-size="14" text-anchor="middle">D</text></svg>
