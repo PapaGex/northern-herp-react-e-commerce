@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  padding: 23px 70px 23px;
+}
+
+a {
+  size: 17px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #CE4E2C;
+}
